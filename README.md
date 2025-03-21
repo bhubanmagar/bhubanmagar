@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhuban Magar</h1>
-<h3 align="center">A passionate Frontend developer from Nepal</h3>
+<h3 align="center">Frontend Developer from Nepal passionate about crafting beautiful and user-friendly UI. With expertise in React.js and Next.js, I focus on building seamless, performant, and visually stunning web applications.
+
+I believe in continuous learning and improvement, always exploring the latest frontend trends, design patterns, and best practices. My GitHub showcases projects that highlight modern UI/UX principles, interactive animations, and optimized user experiences.
+
+🔹 Tech Stack: React.js, Next.js, Tailwind CSS, GSAP, TypeScript
+🔹 Interests: UI/UX Design, Performance Optimization, State Management
+🔹 Philosophy: Code with precision, design with creativity, and learn without limits
+
+Let’s build something amazing! 🚀✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhubanmagar&label=Profile%20views&color=0e75b6&style=flat" alt="bhubanmagar" /> </p>
 
