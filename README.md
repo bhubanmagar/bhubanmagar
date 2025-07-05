@@ -1,6 +1,6 @@
 ## 🚀 Frontend Developer | Crafting Interactive Web Experiences from Nepal
 
-Hi, I’m a passionate Frontend Developer dedicated to turning ideas into seamless, engaging, and visually striking web interfaces. I specialize in building user-centric digital experiences that not only look good but feel intuitive.
+Hi, I’m a Frontend Developer dedicated to turning ideas into seamless, engaging, and visually striking web interfaces. I specialize in building user-centric digital experiences that not only look good but feel intuitive.
 
 With a strong foundation in **HTML**, **CSS**, **JavaScript**, and growing expertise in **React**, I thrive on solving real-world problems through clean, responsive, and performance-driven design.
 
