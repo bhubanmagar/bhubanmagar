@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Bhuban Magar</h1>
-<h3 align="center">Passionate Frontend Developer based in Nepal, dedicated to transforming ideas into captivating and user-friendly web interfaces. I believe in the power of well-crafted frontend experiences to connect and empower users. Proficient in HTML, CSS, JavaScript, and exploring the possibilities with React. Let's build something amazing together!</h3>
+## 🚀 Frontend Developer | Crafting Interactive Web Experiences from Nepal
+
+Hi, I’m a passionate Frontend Developer dedicated to turning ideas into seamless, engaging, and visually striking web interfaces. I specialize in building user-centric digital experiences that not only look good but feel intuitive.
+
+With a strong foundation in **HTML**, **CSS**, **JavaScript**, and growing expertise in **React**, I thrive on solving real-world problems through clean, responsive, and performance-driven design.
+
+I believe great frontend isn’t just about pixels — it’s about **connecting people**, **telling stories**, and making the web feel human.
+
+🔧 *Currently exploring modern UI frameworks, performance optimization, and accessibility to deliver inclusive, scalable interfaces.*
+
+---
+
+👉 Let’s **collaborate**, **innovate**, and build something remarkable together.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhubanmagar&label=Profile%20views&color=0e75b6&style=flat" alt="bhubanmagar" /> </p>
 
