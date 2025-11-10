@@ -2,11 +2,9 @@
 
 Hi, I’m a Frontend Developer dedicated to turning ideas into seamless, engaging, and visually striking web interfaces. I specialize in building user-centric digital experiences that not only look good but feel intuitive.
 
-With a strong foundation in **HTML**, **CSS**, **JavaScript**, and growing expertise in **React**, I thrive on solving real-world problems through clean, responsive, and performance-driven design.
+With a strong foundation in **HTML**, **CSS**, **JavaScript**, and growing expertise in various **React, Next**, I thrive on solving real-world problems through clean, responsive, and performance-driven design.
 
 I believe great frontend isn’t just about pixels — it’s about **connecting people**, **telling stories**, and making the web feel human.
-
-🔧 *Currently exploring modern UI frameworks, performance optimization, and accessibility to deliver inclusive, scalable interfaces.*
 
 ---
 
